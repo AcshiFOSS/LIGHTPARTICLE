@@ -1,0 +1,3 @@
+--index-url https://pypi.tuna.tsinghua.edu.cn/simple
+# Pure Python, None of dependencies!
+# python >= 3.10
